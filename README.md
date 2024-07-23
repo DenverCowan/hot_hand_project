@@ -16,10 +16,10 @@ This project aims to analyze and debunk the "hot hand" phenomenon in sports usin
 To set up the project, follow these steps:
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/hot_hand_project.git
-   cd hot_hand_project
+   - git clone https://github.com/yourusername/hot_hand_project.git
+   - cd hot_hand_project
 2. Create a virtual environment and activate it:
-    python3 -m venv venv
-    source venv/bin/activate
+    - python3 -m venv venv
+    - source venv/bin/activate
 3. install the required dependencies
-    pip install -r requirements.txt
+    - pip install -r requirements.txt
